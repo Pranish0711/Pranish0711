@@ -5,7 +5,7 @@
 
 - 🌱 I’m passionate in **JAVA & SpringBoot**
 
-- 👨‍💻 You can find my portfolio at [paytonpierce.dev](paytonpierce.dev)
+- 👨‍💻 You can find my portfolio at [pranishportfolio.dev](pranishportfoliO.dev)
 
 - 📫 How to reach me **pranishs0711@gmail.com**
 
