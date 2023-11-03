@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Pranish</h1>
-<h3 align="center">Back-End @ Mathison Projects</h3>
+<h3 align="center">Back-End @ Pranish</h3>
 
 <p align="left"> <a href="https://twitter.com/Pranishs07" target="blank"><img src="https://img.shields.io/twitter/follow/paytoncodes?logo=twitter&style=for-the-badge" alt="paytoncodes" /></a> </p>
 
