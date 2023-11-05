@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Pranish</h1>
-<h3 align="center">Back-End @ Pranish</h3>
+<h3 align="center">A Full Stack developer from India @ Pranish</h3>
 
 <img  src="thoughtworks-gif_dribbble.gif/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
