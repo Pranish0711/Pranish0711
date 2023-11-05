@@ -20,4 +20,5 @@
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay-sd17&show_icons=true&locale=en&layout=compact" alt="vinay-sd17" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranish0711&show_icons=true&locale=en" alt="pranish0711" /></p>
