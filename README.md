@@ -12,6 +12,24 @@
 
 - 📫 How to reach me **pranishs0711@gmail.com**
 
+<h3>🌐 My Projects / Websites:</h3>
+
+<ul>
+  <li>
+    🚀 Website 1:
+    <a href="https://www.freshersarena.in/" target="_blank">freshersarena.in</a><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;📧 Contact:
+    <a href="mailto:pranish@freshersarena.in">pranish@freshersarena.in</a>
+  </li>
+<br>
+  <li>
+    🚀 Website 2:
+    <a href="https://www.webzioan.in/" target="_blank">webzioan.in</a><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;📧 Contact:
+    <a href="mailto:pranish@webzioan.in">pranish@webzioan.in</a>
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Pranishs07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paytoncodes" height="30" width="40" /></a>
